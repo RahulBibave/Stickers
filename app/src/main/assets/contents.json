@@ -1,0 +1,153 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Rahul",
+      "publisher": "Rahul Bibave",
+      "tray_image_file": "logo.png",
+      "publisher_email":"rahulbibave@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "rahul1_burned.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "rahul2_burned.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "rahul3_burned.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "rahul5_burned.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "rahul6_burned.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "rahul7_burned.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "rahul8_burned.webp",
+          "emojis": ["😄","😀"]
+        },
+
+        {
+          "image_file": "rahul10_burned.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "rahul11_burned.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "rahul12_burned.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "rahul14_burned.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "rahul15_burned.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "rahul17_burned.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "rahul19_burned.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "rp3_burned.webp",
+          "emojis": ["😄","😀"]
+        }
+
+      ]
+    },{
+      "identifier": "2",
+      "name": "Rahul",
+      "publisher": "Rahul Bibave",
+      "tray_image_file": "logo.png",
+      "publisher_email":"rahulbibave@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "rahul1_burned.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "rahul2_burned.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "rahul3_burned.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "rahul5_burned.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "rahul6_burned.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "rahul7_burned.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "rahul8_burned.webp",
+          "emojis": ["😄","😀"]
+        },
+
+        {
+          "image_file": "rahul10_burned.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "rahul11_burned.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "rahul12_burned.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "rahul14_burned.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "rahul15_burned.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "rahul17_burned.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "rahul19_burned.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "rp3_burned.webp",
+          "emojis": ["😄","😀"]
+        }
+
+      ]
+    }
+  ]
+}
